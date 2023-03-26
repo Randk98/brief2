@@ -1,0 +1,23 @@
+<div class="about-me">
+    <div class="left-img-about-me">
+  
+      
+    </div>
+  
+    <div class="right-text-about-me"></div>
+  </div>
+
+
+  <!-- css -->
+
+  .left-img-about-me{
+    width: 50%;
+    height: 500px;
+    background-color: aqua;
+}
+
+.right-text-about-me{
+    width: 50%;
+    height: 500px;
+    background-color: chartreuse;
+}
